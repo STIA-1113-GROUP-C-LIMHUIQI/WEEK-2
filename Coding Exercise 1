@@ -1,0 +1,23 @@
+package addMinus;
+
+public class OneDayCampusLife {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("0900: Breakfast");
+		System.out.println("1030: Attending classes");
+		System.out.println("1230: Lunch");
+		System.out.println("1300: Attending classes");
+		System.out.println("1730: Finish classes");
+		System.out.println("1800: Take rest");
+		System.out.println("1900: Dinner");
+		System.out.println("2000: Programming exercises");
+		System.out.println("2200: Other works and revision");
+		System.out.println("2330: Sleep");
+		
+		
+		
+
+	}
+
+}
